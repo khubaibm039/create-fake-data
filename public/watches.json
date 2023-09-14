@@ -1,0 +1,27 @@
+[
+    {
+        "Id": 1,
+        "name": "Apple Watch Series 7",
+        "price": 777.99
+    },
+    {
+        "Id": 2,
+        "name": "Galaxy Watch 4",
+        "price": 349.99
+    },
+    {
+        "Id": 3,
+        "name": "Forerunner 945",
+        "price": 599.99
+    },
+    {
+        "Id": 4,
+        "name": "Versa 3",
+        "price": 229.95
+    },
+    {
+        "Id": 5,
+        "name": "Watch GT 3",
+        "price": 249.99
+    }
+]
